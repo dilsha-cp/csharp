@@ -1,7 +1,7 @@
 ﻿namespace variable
 
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -21,8 +21,22 @@
             Console.WriteLine(name1);
             int c = num1 * num1;
             Console.WriteLine(c);
+            // To change variable
+            int mynum = 10;
+            mynum = 20;
+            Console.WriteLine($"num:{mynum}");
+           
+            Class1 myobj=new Class1();
+            myobj.Implicit();
+            myobj.Explicit();
+
 
         }
     }
 }
- //writeline and write is used to print writeline new line
+//writeline and write is used to print writeline new line
+//The const keyword is useful when you want a variable to always store the same value,
+//so that others (or yourself) won't mess up your code
+//const int z= 10;
+//z = 20;
+// Console.WriteLine(z);//show error
