@@ -1,0 +1,15 @@
+C:\MCA\SEM3\csharp\GenericClassDemo\bin\Debug\net8.0\GenericClassDemo.exe
+C:\MCA\SEM3\csharp\GenericClassDemo\bin\Debug\net8.0\GenericClassDemo.deps.json
+C:\MCA\SEM3\csharp\GenericClassDemo\bin\Debug\net8.0\GenericClassDemo.runtimeconfig.json
+C:\MCA\SEM3\csharp\GenericClassDemo\bin\Debug\net8.0\GenericClassDemo.dll
+C:\MCA\SEM3\csharp\GenericClassDemo\bin\Debug\net8.0\GenericClassDemo.pdb
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.sourcelink.json
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.dll
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\refint\GenericClassDemo.dll
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.pdb
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\GenericClassDemo.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\GenericClassDemo\obj\Debug\net8.0\ref\GenericClassDemo.dll

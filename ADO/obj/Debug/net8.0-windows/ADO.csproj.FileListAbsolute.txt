@@ -1,0 +1,17 @@
+C:\MCA\SEM3\csharp\ADO\bin\Debug\net8.0-windows\ADO.exe
+C:\MCA\SEM3\csharp\ADO\bin\Debug\net8.0-windows\ADO.deps.json
+C:\MCA\SEM3\csharp\ADO\bin\Debug\net8.0-windows\ADO.runtimeconfig.json
+C:\MCA\SEM3\csharp\ADO\bin\Debug\net8.0-windows\ADO.dll
+C:\MCA\SEM3\csharp\ADO\bin\Debug\net8.0-windows\ADO.pdb
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.Form1.resources
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.csproj.GenerateResource.cache
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.sourcelink.json
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.dll
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\refint\ADO.dll
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.pdb
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ADO.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\ADO\obj\Debug\net8.0-windows\ref\ADO.dll

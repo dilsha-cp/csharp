@@ -1,0 +1,15 @@
+C:\MCA\SEM3\csharp\anonymous\bin\Debug\net8.0\anonymous.exe
+C:\MCA\SEM3\csharp\anonymous\bin\Debug\net8.0\anonymous.deps.json
+C:\MCA\SEM3\csharp\anonymous\bin\Debug\net8.0\anonymous.runtimeconfig.json
+C:\MCA\SEM3\csharp\anonymous\bin\Debug\net8.0\anonymous.dll
+C:\MCA\SEM3\csharp\anonymous\bin\Debug\net8.0\anonymous.pdb
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.sourcelink.json
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.dll
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\refint\anonymous.dll
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.pdb
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\anonymous.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\anonymous\obj\Debug\net8.0\ref\anonymous.dll

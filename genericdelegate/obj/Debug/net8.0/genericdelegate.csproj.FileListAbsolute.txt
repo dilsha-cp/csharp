@@ -1,0 +1,15 @@
+C:\MCA\SEM3\csharp\genericdelegate\bin\Debug\net8.0\genericdelegate.exe
+C:\MCA\SEM3\csharp\genericdelegate\bin\Debug\net8.0\genericdelegate.deps.json
+C:\MCA\SEM3\csharp\genericdelegate\bin\Debug\net8.0\genericdelegate.runtimeconfig.json
+C:\MCA\SEM3\csharp\genericdelegate\bin\Debug\net8.0\genericdelegate.dll
+C:\MCA\SEM3\csharp\genericdelegate\bin\Debug\net8.0\genericdelegate.pdb
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.sourcelink.json
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.dll
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\refint\genericdelegate.dll
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.pdb
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\genericdelegate.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\genericdelegate\obj\Debug\net8.0\ref\genericdelegate.dll

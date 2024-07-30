@@ -1,0 +1,15 @@
+C:\MCA\SEM3\csharp\Threading\bin\Debug\net8.0\Threading.exe
+C:\MCA\SEM3\csharp\Threading\bin\Debug\net8.0\Threading.deps.json
+C:\MCA\SEM3\csharp\Threading\bin\Debug\net8.0\Threading.runtimeconfig.json
+C:\MCA\SEM3\csharp\Threading\bin\Debug\net8.0\Threading.dll
+C:\MCA\SEM3\csharp\Threading\bin\Debug\net8.0\Threading.pdb
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.sourcelink.json
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.dll
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\refint\Threading.dll
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.pdb
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\Threading.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\Threading\obj\Debug\net8.0\ref\Threading.dll

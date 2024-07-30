@@ -1,0 +1,15 @@
+C:\MCA\SEM3\csharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.exe
+C:\MCA\SEM3\csharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.deps.json
+C:\MCA\SEM3\csharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.runtimeconfig.json
+C:\MCA\SEM3\csharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.dll
+C:\MCA\SEM3\csharp\ExceptionHandling\bin\Debug\net8.0\ExceptionHandling.pdb
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.AssemblyInfo.cs
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.sourcelink.json
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.dll
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\refint\ExceptionHandling.dll
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.pdb
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ExceptionHandling.genruntimeconfig.cache
+C:\MCA\SEM3\csharp\ExceptionHandling\obj\Debug\net8.0\ref\ExceptionHandling.dll
